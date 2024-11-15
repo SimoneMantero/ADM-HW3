@@ -222,7 +222,7 @@ https://guide.michelin.com/en/veneto/venezia/restaurant/alle-corone
 https://guide.michelin.com/en/veneto/marostica/restaurant/la-rosina
 https://guide.michelin.com/en/trentino-alto-adige/riva-del-garda/restaurant/villetta-annessa
 https://guide.michelin.com/en/puglia/san-severo/restaurant/la-fossa-del-grano
-https://guide.michelin.com/en/veneto/sappada/restaurant/laite
+https://guide.michelin.com/en/friuli-venezia-giulia/sappada/restaurant/laite
 https://guide.michelin.com/en/campania/napoli/restaurant/50-kalo
 https://guide.michelin.com/en/piemonte/orbassano/restaurant/casa-format
 https://guide.michelin.com/en/puglia/marina-di-pulsano/restaurant/la-barca
@@ -563,7 +563,7 @@ https://guide.michelin.com/en/liguria/sestri-levante/restaurant/baia-del-silenzi
 https://guide.michelin.com/en/lazio/ladispoli/restaurant/the-cesar
 https://guide.michelin.com/en/campania/vairano-patenora/restaurant/vairo-del-volturno
 https://guide.michelin.com/en/liguria/riomaggiore/restaurant/rio-bistrot
-https://guide.michelin.com/en/veneto/sappada/restaurant/mondschein-food-experience
+https://guide.michelin.com/en/friuli-venezia-giulia/sappada/restaurant/mondschein-food-experience
 https://guide.michelin.com/en/marche/pesaro/restaurant/nostrano
 https://guide.michelin.com/en/emilia-romagna/santarcangelo-di-romagna/restaurant/osteria-la-sangiovesa
 https://guide.michelin.com/en/campania/paestum/restaurant/le-trabe
