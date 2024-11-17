@@ -1,6 +1,8 @@
 # ADM-HW3
 Third homework of the "Algorithmic Methods of Data Mining" class (Sc.M. in Data Science)
 
+Since the github preview doesn't allow to show the map plots present in the point 4. [click here](https://nbviewer.org/github/federicolatt/ADM-HW3/blob/master/main.ipynb) to view them
+
 
 # Advanced Search Engine for Michelin Restaurants
 
