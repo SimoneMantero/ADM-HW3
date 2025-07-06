@@ -97,13 +97,6 @@ We solved a problem where a robot collects packages in a grid by sorting the coo
 
 ---
 
-**Collaborators**
-Camilla Labbate,
-Elena Di Grigoli,
-Federico Lattanzio,
-Simone Mantero
-
-We suggest to open the file on Visual Studio and to run the codes to see the interactive graphs.
 
 ## **Repository Structure**
 - **`pages/`**: Contains downloaded HTML pages of restaurants.
